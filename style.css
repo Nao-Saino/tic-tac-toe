@@ -1,0 +1,51 @@
+body {
+}
+.rowsTitle {
+  color: white;
+  padding: 1rem;
+}
+.title {
+  color: #fff;
+  font-size: 25px;
+}
+
+/* .row {
+  width: 30%;
+  margin: 0 center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+} */
+
+.mainTable {
+  background-color: aqua;
+  padding: 3rem;
+}
+
+table {
+  color: red;
+  border: 1px solid gray;
+}
+
+td {
+  border: 1px solid gray;
+}
+
+.square {
+  width: 100%;
+}
+.square-in {
+  width: 100%;
+  padding-top: 100%;
+}
+
+.log_square {
+  width: 100px;
+  height: 100px;
+}
+
+.row-2 {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
