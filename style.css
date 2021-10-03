@@ -9,18 +9,14 @@ body {
   font-size: 25px;
 }
 
-/* .row {
-  width: 30%;
-  margin: 0 center;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-} */
+.player {
+  width: 40%;
+  margin: 0 auto;
+}
 
 .mainTable {
   background-color: aqua;
-  padding: 3rem;
+  padding: 2rem;
 }
 
 table {
